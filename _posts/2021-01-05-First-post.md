@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mazen's website, Launches Site"
+title: "Mazen's website, Launche Site"
 date: 2021-01-05
 ---
 
