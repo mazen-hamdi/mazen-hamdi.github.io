@@ -41,4 +41,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-#gameOver { position : absoloute;}
+#gameOver { position : absoloute;
+    left: 100px;
+    top: 150px}
